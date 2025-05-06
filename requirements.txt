@@ -1,0 +1,13 @@
+colorama==0.4.6
+crayons==0.4.0
+cryptosteganography==0.8.4
+exitstatus==2.5.0
+numpy==2.0.0
+opencv-python==4.10.0.84
+piexif==1.1.3
+pillow==10.3.0
+pycryptodome==3.22.0
+pycryptodomex==3.20.0
+python-dotenv==1.1.0
+setuptools==70.1.1
+stegano==0.11.3

@@ -1,0 +1,30 @@
+# 🔐 Do NOT expose secret environment configs
+.env
+
+# 🧾 Ignore logs and generated metadata
+logs/
+data/
+
+# 💣 Python cache (compiled .pyc)
+__pycache__/
+*.py[cod]
+*.so
+
+# 📦 Ignore virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# ⚙️ VS Code config (optional)
+.vscode/
+
+# 🖼️ Ignore built images (optional, unless you want to track them)
+assets/watermarked/
+
+# Ignore assets but allow structure
+assets/original/
+assets/watermarked/
+*.png
+*.jpg
+*.jpeg

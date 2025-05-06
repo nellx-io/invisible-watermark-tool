@@ -55,7 +55,6 @@ invisible_watermark_tool/
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/nellx-io/invisible-watermark-tool.git
 
 Create virtual environment
 
